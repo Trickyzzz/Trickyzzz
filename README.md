@@ -10,7 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Trickyzzz@163.com
 - ⚡ Fun fact: ...
 -->
-- Welcome to my github page.
-- I'm interested in DB and plan to join an DB company in the future.
-- Here are some learning traces:
-- Writing, Running, and Fixing Code in C--Duke University
+天天好心情
+Every day good mood！
